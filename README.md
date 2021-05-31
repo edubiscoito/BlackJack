@@ -1,0 +1,2 @@
+# BlackJack
+Trabalho TADS Segunda.
